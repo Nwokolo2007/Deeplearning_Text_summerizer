@@ -1,0 +1,16 @@
+Django>=3.0,<4.0
+djangorestframework>=3.10.0,<3.12.4
+psycopg2-binary~=2.8.6
+flake8>=3.6.0,<3.7.0
+six
+tensorflow
+beautifulsoup4
+transformers
+django-cors-headers
+validators
+os.path2
+PyPDF2
+bert-extractive-summarizer
+torch
+pymemcache
+python-memcached
